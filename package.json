@@ -1,0 +1,22 @@
+{
+  "name": "avtar-icon",
+  "version": "1.0.0",
+  "description": "get first letter from string for avatar",
+  "main": "index.js",
+  "scripts": {
+    "test": "avatar-icon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srivathsa-km/test.git"
+  },
+  "keywords": [
+    "avatar-icon"
+  ],
+  "author": "srivathsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srivathsa-km/test/issues"
+  },
+  "homepage": "https://github.com/Srivathsa-km/test#readme"
+}
